@@ -1,0 +1,13 @@
+[{ 
+      "pic": "./assets/rabbits01.png",
+      "name": "Lily"
+    }, {
+      "pic": "./assets/rabbits02.png",
+      "name": "Peony"
+    }, {
+      "pic": "./assets/rabbits03.png",
+      "name": "Daisy and Poppy"
+    }, {
+      "pic": "./assets/rabbits04.png",
+      "name": "Marigold"
+}]
